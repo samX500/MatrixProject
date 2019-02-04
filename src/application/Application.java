@@ -17,6 +17,7 @@ public class Application
 		return matrixList.size() != 0;
 	}
 
+	//TODO remove this line (test for gitHub)
 	public static void createMatrix()
 	{
 		System.out.println("Choose the height of your matrix");
